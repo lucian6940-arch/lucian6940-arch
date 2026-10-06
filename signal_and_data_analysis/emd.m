@@ -1,3 +1,4 @@
+%****************************this file is an example file just using it to study the method and the process*******************
 %EMD  computes Empirical Mode Decomposition
 %
 %
@@ -51,7 +52,7 @@
 %         _  |IMF(i,:).*IMF(j,:)|
 %   ORT = \ _____________________
 %         /
-%         ¯        || X ||²
+%         Â¯        || X ||Â²
 %        i~=j
 %
 % and the number of iterations to extract each mode in NB_ITERATIONS
@@ -127,12 +128,12 @@
 % Hilbert spectrum for non-linear and non stationary time series analysis",
 % Proc. Royal Soc. London A, Vol. 454, pp. 903-995, 1998
 %
-% [2] G. Rilling, P. Flandrin and P. Gonçalves
+% [2] G. Rilling, P. Flandrin and P. GonÃ§alves
 % "On Empirical Mode Decomposition and its algorithms",
 % IEEE-EURASIP Workshop on Nonlinear Signal and Image Processing
 % NSIP-03, Grado (I), June 2003
 %
-% [3] G. Rilling, P. Flandrin, P. Gonçalves and J. M. Lilly.,
+% [3] G. Rilling, P. Flandrin, P. GonÃ§alves and J. M. Lilly.,
 % "Bivariate Empirical Mode Decomposition",
 % Signal Processing Letters (submitted)
 %
