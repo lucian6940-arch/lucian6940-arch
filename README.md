@@ -1,8 +1,8 @@
 # Hi, I'm Ujjawal Malani (lucian) 👋 
 **Mechatronics & Robotics Engineer | Incoming Space Technology Master's Candidate**
 📍 Vilnius, Lithuania (Vilnius Tech / FTMC)  
-💼 Former Sensor Fusion Intern (Defense Tech, Germany)  
-📈 GPA: **9.2 / 10.0**
+💼 Former Sensor Fusion Intern (Phinorm, Germany)  
+📈 GPA: **9.26 / 10.0**
 
 ---
 
@@ -47,5 +47,5 @@
 ---
 
 ## 📬 Connect with Me
-*   **Email:** [your.email@example.com]
-*   **LinkedIn:** [://linkedin.com]
+*   **Email:** lucian6940@gmail.com
+*   **LinkedIn:** www.linkedin.com/in/ujjawal-malani-8068a02a8
