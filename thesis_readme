@@ -1,0 +1,43 @@
+# Autonomous Next-Generation Flexure-Based Alignment and Exposure Stage
+
+## 📌 Project Executive Summary
+This repository contains the complete design blueprint, engineering metrics, and control logic for an **autonomous, 3D-printable micro-positioning and exposure system** engineered for photolithography applications. 
+
+By replacing traditional friction-heavy mechanical bearings with compliant monolithic flexure mechanisms, this system completely eliminates backlash and stick-slip friction. The architecture delivers a highly repeatable **5µm alignment resolution** within a tightly constrained **5mm maximum travel envelope**. 
+
+This project demonstrates cross-disciplinary expertise across precision mechatronics, compliant mechanism kinematics, additive manufacturing optimization, and automated system control.
+
+---
+
+## 🛠️ Core Engineering Logic & Subsystems
+
+*   **Compliant Mechanism Kinematics:** Designed custom flexure geometries to guide precision motion. Utilizing structural elasticity allows the system to achieve sub-micron predictability and a **5µm alignment resolution** without the need for high-cost linear guides.
+*   **Workspace & Stress Optimization:** Engineered the flexure arms to maximize compliance along the desired axis while ensuring the material stays safely below its yield and fatigue limits during the full **5mm allowed travel distance**.
+*   **Additive Manufacturing Integration:** Optimized the entire mechanical assembly for monolithic, **3D-printable manufacturing** (FDM/SLA). The design features print-in-place tolerances that minimize assembly stack-up errors and reduce physical production costs.
+*   **Automated Optical Alignment Pipeline:** Developed an autonomous control loop using MATLAB scripts that seamlessly handle the transition from precision structural alignment to timed UV exposure, minimizing human error and maximizing process reliability.
+
+---
+
+## 📊 System Performance Metrics
+
+| Parameter | Specification | Verification & Design Method |
+| :--- | :--- | :--- |
+| **Alignment Resolution** | 5 µm | Optical tracking / Analytical modeling |
+| **Maximum Envelope** | 5 mm (Travel distance) | Kinematic geometric bounds |
+| **Manufacturing Method** | 3D Printable (Optimized for FDM/SLA) | Monolithic toolpath slicing |
+| **Automation Metric** | Fully closed-loop execution | Integrated sensor-to-exposure pipeline |
+
+---
+
+## 🔬 Aerospace & Space Technology Relevance
+While designed for semiconductor photolithography, the underlying control and structural principles of this project are highly critical for spacecraft engineering:
+1. **Zero-Backlash Motion:** Compliant mechanisms are heavily utilized in space exploration rovers, optical payload mirrors, and satellite deployments because they require zero lubrication and do not seize up in vacuum environments.
+2. **Sub-Micron Control:** The alignment logic directly translates to satellite laser communication terminals and orbital fine-pointing sensor assemblies.
+
+---
+
+## 👤 Academic Framework & Contact
+*   **Author:** [Your Name] – Mechatronics & Robotics Senior (Vilnius Tech / FTMC)
+*   **Academic Standing:** GPA: **9.2 / 10.0** (Top Tier / Excellent Standing)
+*   **Academic Supervisor:** [Name of the Head of Mechatronics Department]
+*   **Contact:** [your.email@example.com] | [Link back to your main GitHub Profile Page]
