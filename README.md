@@ -18,7 +18,7 @@
     *   **Core Assets:** High-resolution parametric 3D CAD assemblies (exploded views of structural chassis and suspension tracking) paired with localized terrain navigation workflows.
 *   **[Magnetic-Levitation-Simulink-Control](https://github.com)**
     *   **Overview:** Closed-loop system dynamics and active stabilization model governing a high-mass 50 kg magnetic levitation platform.
-    *   **Core Assets:** Complete Simulink (`.slx`) block diagrams evaluating PID controller response parameters against structural damping variables to eliminate transient overshoot. Highly relevant for satellite payload vibration isolation assemblies.
+    *   **Core Assets:** Complete Report on PID controller response parameters against structural damping variables to eliminate transient overshoot. Highly relevant for satellite payload vibration isolation assemblies.
 
 ### 🛡️ Defense Tech & Advanced Signal Processing
 
