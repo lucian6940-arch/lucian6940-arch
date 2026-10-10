@@ -80,9 +80,8 @@ The full-scale graphic poster presentations I created and defended before intern
     *Venue:* **Open Readings 2026 International Conference**.  
     *   [📄 Download Presentation Poster PDF](https://github.com)
     *   *Abstract:* Formulated a vision-based centroid tracking algorithm in MATLAB to evaluate Cartesian return-to-origin micrometer-scale positioning errors under variable feed rates.
-*   **Advanced Mechatronic Systems and Signal Filtering Pipelines**  
+*   **Development of Low-Cost Custom Flexure Based Micro-scale Alignment mechanism for Multilayer Photolithography of Graphene FET Based Biosensors**  
     *Venue:* **FizTech 2026 Conference** (Scheduled: October 27, 2026).  
-    *   [📄 View Accepted Conference Poster Structure](https://github.com)
 
 ---
 
